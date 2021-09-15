@@ -1,0 +1,52 @@
+
+
+
+.post{
+    
+padding: 10px;
+color: rgb(12, 4, 4);
+font-style: italic;
+font-size: 30px;
+text-decoration: none;
+
+}
+.post_a{
+    background-color: thistle;
+    border-bottom: 3px solid #0700fc;
+    border-radius: 10px;
+   padding-top: 10px;
+}
+.otg{
+    font-size: 30px;
+    font-style: oblique;
+    color: rgb(16, 17, 16);
+  position: relative;
+  left: 440px;
+}
+.image{
+    
+    position:relative;
+left: 430px;
+top: 0px;
+width: 200px;
+}
+    .image_post{
+        position:relative;
+left: 300px;
+top: 0px;
+width: 449px;
+    }
+    .frase{
+        font-size: 50px;
+       font-style: italic;
+       position: relative;
+  left: 300px;
+    }
+    .post_b{
+        background-color: thistle;
+    border-bottom: 3px solid #0700fc;
+    border-radius: 10px;
+   padding-top: 10px;
+   padding-left:10px ;
+    }
+  
